@@ -34,3 +34,5 @@
 *.DS_Store
 
 *.xcodeproj
+Arrays/Find-Pivot/*.xcodeproj
+#Arrays/Find-Pivot/Find-Pivot.xcodeproj/xcuserdata/*
